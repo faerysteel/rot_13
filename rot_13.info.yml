@@ -1,0 +1,4 @@
+name: ROT-13 Text Formmatter
+type: module
+description: 'A text formatter'
+core: 8.x
