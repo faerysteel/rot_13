@@ -1,0 +1,19 @@
+{
+  "name": "faerysteel/rot_13",
+  "description": "Formatter to convert text to rot_13.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/faerysteel/rot_13",
+  "authors": [
+    {
+      "name": "Lisa Godare",
+      "homepage": "https://github.com/faerysteel",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/faerysteel/rot_13/issues",
+    "source": "https://github.com/faerysteel/rot_13"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
+}
